@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "river-autumn-434523-e1",
+  "private_key_id": "70ece5c66b12bc65f3f91358af77533bfed82d02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOP9lq+8/47fr6\nVtvUR3LYcJ+TB3kMI5lI8Y7q4q1rkyqVB2ISc3DOlpTY+Uh7Tl/Ww3o7RrkGoTDt\n8A+Is7hD7LVHhQ79kSgul7Ic7rqlPVJYokIX91rD8t8qLdUXX5Z42rZccu5vVAxr\nzuKcQ+XISunOsH9zaozYDRziFzpGfZNkhaTtzk7cksEAQlta3wu1vMtJZ93PpYrE\n+Qx/xdXfPaQgElGscnpa2c2V5fzjwz4vut8cg+e9leOcXp8sTDn4GoTqyIPTp1jN\nEXw4Z7N5prWCEOv1a8DziDbIZOsCHV/UTkBH3NlHqsOn2A8ez4IJOXcPAI4z4Z8j\numpqQbr1AgMBAAECggEAPGDJs72C7SMx6W5bDWJbNwyFUoQKBik3uvhoN8/jJ85d\n1WHjbnZYDEpdycT0WJChktwH4Ol7yfqPOeCgk4rVQyE9EnJb6JRBeJ5U+I5UmoIA\npMzfX2e8rQdhGFZxftWvVbLlVtwYfAPVXQwkH83qqz9vAeB+dxm2oJr6HR/iofaj\nEuYednZyuITiDAy8mMo3BIhed0+GW3t+qSnV4/r2qsAhmvLZRe1x95MIJJJthigb\napoSRkAEougvcMGD+/Kg8yCFHlo5bzSXFVUfnGarm+KlMYgTj2xNP1Ey5OvfqfU3\no0n1FAn64vWv8KUMh1hllNcHifPcCIfjU0sk5iGLkwKBgQDS5Q8fBk9X+LtzX3ty\nqLu5Q+e49lt0nrkYT/gEUCDVM28KY6C7U5nmLKxWtTDhtGr1KAq6cYREQTlNkOyO\n/nMpr2suhFfGSQQrRrGXI4vuGvJA/ak8er4LmUb/mJQC93nYjV1LTG11DsNm886m\n2vlYCV2TsATSOvXpmkrKoxUIcwKBgQD6XHKCL+KY4th2libfcRyDRzpyumgaxZPu\ngjUXL8KJSpwSKn58xwNRtb1v1nVxiSM5ZvCuJ3f7/l5vq3r3ex47BPsZHZZkRLYA\nZFASAHIrzMV0HwgScMyyOoZbueIm0WCLEQoND3Z6U5HP60/dZspnH1kQdx931e90\nMRb3y04c9wKBgBnuJA/SfMr6QEINSWZtrLc4zDMHx3LtWSDOJFaTa5YLPunuGgMu\nYkvUzlPS73Gw9z2xcLA/6N1jj6Ij4ZIrYwmLEgikKQ6uR57ykD9fFYNvOL4Y8kgH\nZ3qRnBMtNXWv7AFeUExD12l/KTNtYslNPz89142jJNScf0P7vppvttRVAoGAYscQ\nwr6j15BAuWD6i1P0XPNAYz2aj11+xS6IRdKpHUPbmes8JnzamWVsDXD+u0HRLPep\nY/zcgQbWOZbdmEDyJ3UKoNkkmgDmEfeCA+g7I37SNMN9itEIYhVnJ0+Ko6geQCAD\n6C0+oHrSX8dGpmLE3rTmjfGB7+TvaddoaXHEKvcCgYBOFIyqpHoSpC2DXLxb7oY1\nLM/dTDe7ChHFO4tGakLaol18l6iZswdDUWLOhQPwc0ci/ynF8pezuZMd+QalAs5B\nWR+26Bj6L0HePC9gzHkjVdeTJd0Ke7WkV+wwFvFjLbEdPfgTtPCC0Meyv2Rn01Qa\nHLvmJW9UsPYsbYkbpL8qkQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@river-autumn-434523-e1.iam.gserviceaccount.com",
+  "client_id": "100199077657168378103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40river-autumn-434523-e1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
