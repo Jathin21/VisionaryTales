@@ -18,7 +18,7 @@ Security
     Insights
 
 Home
-Navdeep Singh edited this page Dec 4, 2024 · 19 revisions
+
 Project Proposal: Visionary Tales Using Google Vision API
 
 Group 10
